@@ -55,8 +55,42 @@ Here are some examples:
 
 ![Photo1](https://github.com/user-attachments/assets/529df37a-f345-4e79-9f41-bc08e6249c57)
 
+3. By using line chart with slicer and dropdown menu, this illustrates the trend of your data, which I included different variety of elements related to which you can sort, select, refine and deselect based on what data you are looking for. 
+
+![Photo4](https://github.com/user-attachments/assets/19931a9b-f63e-4e67-a048-ef58325a5312)
+
+### Results/Findings:
+
+The analysis resuslts are summarized as follows:
+1. The company's overall growth shows there is a clear upward trend in revenue over the analyzed years. The cumulative revenue by the hotel was $10.23M from 2018-2020, indicating positive business growth.
+   From the segmented hotel type:
+   - City Hotel: Higher in revenue, steady year-round growth, with moderate seasonal variations.
+   - Resort Hotel: Spikes during summer, July to August are the peak travel seasons, but with more variability in the off-season.
+   Both hotel types contribute to growth, but the resort hotel shows stronger dependence on seasonal demand, while the city hotel ensures stability throughout the year.
+
+2. Expanding the parking lot is not an issue on both hotels, since the data allows us to understand that every year, there is an increasing number of cars that visited or parked on the hotels, but the parking percentage is still enough to supply the demand for spaces.
+
+3. ADR peaks during holiday seasons and summer, reflecting strong demand during these periods, especially at the resort hotel. The city hotel maintains a relatively stable ADR, with slight increases during conferences and business travel seasons.
+   - Understanding these seasonal patterns allows for optimized pricing strategies, targeted marketing efforts, and operational adjustments to align with guest demand.
+  
+### Recommendations:
+
+1. - Resort Hotel: Capitalize on seasonal peaks by offering premium packages and experiences (e.g., wellness retreats, special events). Implement advanced booking campaigns to lock in early reservations.
+   - City Hotel: Introduce corporate partnerships and loyalty programs to maintain steady revenue streams from business travelers. Expand marketing efforts during non-peak periods to boost occupancy.
+  
+2. Implement dynamic pricing strategies to maximize ADR during high-demand periods while offering competitive discounts during off-seasons.
+3. Use seasonal promotions to attract guests during slower periods, such as bundling room rates with local attractions or dining packages.
 
 
+### References:
+
+1. https://absentdata.com/data-analysis/where-to-find-data/
 
 
+OCTOBER 2024
 
+Prepared and Analyzed by:
+
+Reinnance Rafael S. Javin
+
+Data Analyst & Registered Mechanical Engineer 💻
