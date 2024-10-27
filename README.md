@@ -39,7 +39,24 @@ from hotels
 group by arrival_date_year, hotel
 ```
 ### Data Visualization
-In this segment, I created a dashboard to highlight the project overview and gain insights from the Exploratory Data Analysis.
+In this segment, I created the overall look of the dashboard to highlight the project overview and gain insights from the Exploratory Data Analysis.
+
+![Dashboard#1](https://github.com/user-attachments/assets/e7f36101-9251-40cc-b399-d8e534964147)
+
+By using Microsoft PowerBi, I utilized different tools such as line chart, slicer, donut chart and table to showcase the visual of the data made from the query from SQL. 
+In this part of my learning process, I showcase and discovered how easily PowerBI interpret the data through visualization and maximize your insights base on the query. 
+
+Here are some examples:
+1. By using donut chart, it showcase the different revenue of types of hotel and distinguished City or Resort Hotel, which can be answered and reflect from the EDA.
+   
+![Photo2](https://github.com/user-attachments/assets/d0107ca9-7d3f-4e58-aba4-0c5274572f7f)
+
+2. By using the slicer, this can filter the data visualization by which you would like to know, from year, sum of revenue, required car parking spaces and and parking percentage as well.
+
+![Photo1](https://github.com/user-attachments/assets/529df37a-f345-4e79-9f41-bc08e6249c57)
+
+
+
 
 
 
